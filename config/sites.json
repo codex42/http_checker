@@ -1,0 +1,56 @@
+{
+    "sites":[
+        {
+            "site": {
+                "id": "gsa",
+                "mainurl": "www.gsa.europa.eu",
+                "urls": [
+                    { 
+                       "url": "https://www.gsa.europa.eu",
+                       "keywords":                        [
+                        {
+                            "keyword":"menu-mlid-10617"
+                        },
+                        {
+                            "keyword":"webform_client_form_15877"
+                        }
+                    ]
+                   },
+                   { 
+                       "url": "https://www.gsa.europa.eu/newsroom/news",
+                       "keywords":                        [
+                        {
+                            "keyword":"menu-mlid-10617"
+                        },
+                        {
+                            "keyword":"webform_client_form_15877"
+                        }
+                    ]
+                   }
+               ]
+
+            }
+        },
+        {
+            "site": {
+                "id": "gsc",
+                "mainurl": "www.gsc-europa.eu",
+                "urls": [
+                    { 
+                       "url": "https://www.gsc-europa.eu/",
+                       "keywords": [
+                        {
+                            "keyword":"menu-mlid-2236"
+                        },
+                        {
+                            "keyword":"/node/73#Disclaimer"
+                        }
+                    ]
+                   }
+               ]
+
+            }
+        }
+
+    ]
+}
