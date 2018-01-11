@@ -55,7 +55,7 @@ class Site
 					$keywordsStatus='OK';
 				}
 				elseif (strpos($keywordsStatusTmp,'0') !== false){
-					$keywordsStatus='error';
+					$keywordsStatus='Error';
 				}
 			}
 			
