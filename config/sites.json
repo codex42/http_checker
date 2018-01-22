@@ -1,34 +1,55 @@
 {
-    "sites":[
+    "sites": [
         {
             "site": {
                 "id": "gsa",
                 "mainurl": "www.gsa.europa.eu",
                 "urls": [
-                    { 
-                       "url": "https://www.gsa.europa.eu",
-                       "keywords":                        [
-                        {
-                            "keyword":"menu-mlid-10617"
-                        },
-                        {
-                            "keyword":"webform_client_form_15877"
-                        }
-                    ]
-                   },
-                   { 
-                       "url": "https://www.gsa.europa.eu/newsroom/xnews",
-                       "keywords":                        [
-                        {
-                            "keyword":"menu-mlid-10617"
-                        },
-                        {
-                            "keyword":"webform_client_form_15877"
-                        }
-                    ]
-                   }
-               ]
-
+                    {
+                        "url": "https://www.gsa.europa.eu",
+                        "keywords": [
+                            {
+                                "keyword": "menu-mlid-10617"
+                            },
+                            {
+                                "keyword": "webform_client_form_15877"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://www.gsa.europa.eu/newsroom/news",
+                        "keywords": [
+                            {
+                                "keyword": "menu-mlid-10617"
+                            },
+                            {
+                                "keyword": "webform_client_form_15877"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://www.gsa.europa.eu/opportunities/gnss-opportunities-database",
+                        "keywords": [
+                            {
+                                "keyword": "menu-mlid-10643"
+                            },
+                            {
+                                "keyword": "webform_client_form_15877"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://www.gsa.europa.eu/communication/events-highlights/growing-galileo-07",
+                        "keywords": [
+                            {
+                                "keyword": "keyword test df68zzs9"
+                            },
+                            {
+                                "keyword": "keyword test xbf412zk"
+                            }
+                        ]
+                    }
+                ]
             }
         },
         {
@@ -36,21 +57,41 @@
                 "id": "gsc",
                 "mainurl": "www.gsc-europa.eu",
                 "urls": [
-                    { 
-                       "url": "https://www.gsc-europa.eu/",
-                       "keywords": [
-                        {
-                            "keyword":"menu-mlid-2236"
-                        },
-                        {
-                            "keyword":"/node/73#Disclaimer"
-                        }
-                    ]
-                   }
-               ]
-
+                    {
+                        "url": "https://www.gsc-europa.eu/",
+                        "keywords": [
+                            {
+                                "keyword": "menu-mlid-2236"
+                            },
+                            {
+                                "keyword": "/node/73#Disclaimer"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://www.gsc-europa.eu/about-the-gsc/news",
+                        "keywords": [
+                            {
+                                "keyword": "menu-mlid-2236"
+                            },
+                            {
+                                "keyword": "/node/73#Disclaimer"
+                            }
+                        ]
+                    },
+                    {
+                        "url": "https://www.gsc-europa.eu/system-status/user-notifications",
+                        "keywords": [
+                            {
+                                "keyword": "menu-mlid-2236"
+                            },
+                            {
+                                "keyword": "/node/73#Disclaimer"
+                            }
+                        ]
+                    }
+                ]
             }
         }
-
     ]
 }

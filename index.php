@@ -63,7 +63,7 @@ class Site
 			
 			$this->sData->urls[$key]->keywordsStatus=$keywordsStatus;
 		}
-
+		$this->sData->logs = new stdClass();
 		$this->sData->logs->SERVER_ADDR=$_SERVER['SERVER_ADDR'];
 		$this->sData->logs->HTTP_HOST=$_SERVER['HTTP_HOST'];
 		$this->sData->logs->REQUEST_TIME=$_SERVER['REQUEST_TIME'];
